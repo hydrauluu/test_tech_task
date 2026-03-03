@@ -1,0 +1,19 @@
+2026-03-03 15:43:54 | INFO     | main:<module>:10 - === Запуск сверки ===
+2026-03-03 15:43:54 | INFO     | parsers:parse_rpabank:27 - Парсим RpaBank: /home/arch/Documents/test_tech_task/RPA/RpaBank_report.txt
+2026-03-03 15:43:54 | INFO     | parsers:parse_rpabank:58 - RpaBank: загружено 126 записей
+2026-03-03 15:43:54 | DEBUG    | parsers:parse_rpabank:59 - RpaBank: валюты — {'KGS': 73, 'USD': 43, 'EUR': 10}
+2026-03-03 15:43:54 | INFO     | parsers:parse_pindodo:64 - Парсим Pindodo: /home/arch/Documents/test_tech_task/PINDODO/Pindodo_report.txt
+2026-03-03 15:43:54 | INFO     | parsers:parse_pindodo:109 - Pindodo: загружено 121 записей
+2026-03-03 15:43:54 | DEBUG    | parsers:parse_pindodo:110 - Pindodo: валюты — {'KGS': 69, 'USD': 42, 'EUR': 10}
+2026-03-03 15:43:54 | INFO     | reconcile:reconcile:10 - Начинаем сверку: RpaBank=126, Pindodo=121
+2026-03-03 15:43:54 | INFO     | reconcile:reconcile:38 - ✓ Успешные:         116 (88.5%)
+2026-03-03 15:43:54 | INFO     | reconcile:reconcile:39 - ✗ Только RpaBank:   10
+2026-03-03 15:43:54 | INFO     | reconcile:reconcile:40 - ✗ Только Pindodo:   5
+2026-03-03 15:43:54 | DEBUG    | reconcile:reconcile:43 - RpaBank-неуспешные RRN: ['208085', '342176', '357320', '237889', '335810', '235652', '118659', '304359', '128527', '128843']
+2026-03-03 15:43:54 | DEBUG    | reconcile:reconcile:45 - Pindodo-неуспешные RRN: ['140889', '254277', '422960', '335810', '152934']
+2026-03-03 15:43:54 | INFO     | export:export_to_excel:55 - Записываем Excel: /home/arch/Documents/test_tech_task/Результат/reconciliation.xlsx
+2026-03-03 15:43:55 | DEBUG    | export:export_to_excel:66 - Лист 'Успешные': 116 строк записано
+2026-03-03 15:43:55 | DEBUG    | export:export_to_excel:66 - Лист 'RpaBank_неуспешные': 10 строк записано
+2026-03-03 15:43:55 | DEBUG    | export:export_to_excel:66 - Лист 'Pindodo_неуспешные': 5 строк записано
+2026-03-03 15:43:55 | INFO     | export:export_to_excel:73 - Excel сохранён: /home/arch/Documents/test_tech_task/Результат/reconciliation.xlsx
+2026-03-03 15:43:55 | INFO     | main:<module>:20 - === Сверка завершена успешно ===
