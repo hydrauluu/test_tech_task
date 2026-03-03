@@ -2,6 +2,7 @@ import re
 from pathlib import Path
 
 import pandas as pd
+from loguru import logger
 
 _RPA_RE = re.compile(
     r"^\s*(\d+)\s+(\d+)\s+"
@@ -23,12 +24,20 @@ _PINDODO_RE = re.compile(r"^\s{2,}([A-Za-z][\w\s]+?)\s{2,}(\S.*?)\s*$")
 
 
 def parse_rpabank(path: str | Path) -> pd.DataFrame:
+    logger.info(f"Парсим RpaBank: {path}")
     rows = []
+
     with open(path, encoding="utf-8") as f:
         for line in f:
             m = _RPA_RE.match(line)
             if m:
                 rows.append(m.groups())
+            else:
+                logger.debug(f"Строка не распознана: {line.rstrip()}")
+
+    if not rows:
+        logger.error("RpaBank: не найдено ни одной записи")
+        raise ValueError(f"Файл пустой или формат не распознан: {path}")
 
     df = pd.DataFrame(
         rows,
@@ -45,16 +54,27 @@ def parse_rpabank(path: str | Path) -> pd.DataFrame:
     df["date"] = pd.to_datetime(df["date"], format="%Y%m%d").dt.date
     df["amount"] = df["amount"].str.replace(",", ".").astype(float)
     df["card_number"] = df["card_number"].str.zfill(6)
+
+    logger.info(f"RpaBank: загружено {len(df)} записей")
+    logger.debug(f"RpaBank: валюты — {df['currency'].value_counts().to_dict()}")
     return df
 
 
 def parse_pindodo(path: str | Path) -> pd.DataFrame:
+    logger.info(f"Парсим Pindodo: {path}")
     rows, current = [], {}
     columns = list(_PINDODO_FIELDS.values())
+    skipped = 0
 
-    def flush(d):
+    def flush(d: dict):
+        nonlocal skipped
         if set(columns).issubset(d):
             rows.append([d[c] for c in columns])
+        elif d:
+            skipped += 1
+            logger.debug(
+                f"Pindodo: блок пропущен, не хватает полей: {set(columns) - set(d)}"
+            )
 
     with open(path, encoding="utf-8") as f:
         for line in f:
@@ -71,6 +91,13 @@ def parse_pindodo(path: str | Path) -> pd.DataFrame:
 
     flush(current)
 
+    if not rows:
+        logger.error("Pindodo: не найдено ни одной записи")
+        raise ValueError(f"Файл пустой или формат не распознан: {path}")
+
+    if skipped:
+        logger.warning(f"Pindodo: пропущено {skipped} неполных блоков")
+
     df = pd.DataFrame(rows, columns=columns)
     df["local_datetime"] = pd.to_datetime(df["local_datetime"], format="%Y%m%d%H%M%S")
     df["transaction_date"] = pd.to_datetime(
@@ -78,4 +105,7 @@ def parse_pindodo(path: str | Path) -> pd.DataFrame:
     ).dt.date
     df["amount"] = df["amount"].str.replace(",", ".").astype(float)
     df["card_number"] = df["card_number"].str.zfill(6)
+
+    logger.info(f"Pindodo: загружено {len(df)} записей")
+    logger.debug(f"Pindodo: валюты — {df['currency'].value_counts().to_dict()}")
     return df

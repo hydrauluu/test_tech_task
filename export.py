@@ -1,6 +1,7 @@
 from pathlib import Path
 
 import pandas as pd
+from loguru import logger
 from openpyxl import load_workbook
 from openpyxl.styles import Alignment, Border, Font, PatternFill, Side
 from openpyxl.utils import get_column_letter
@@ -12,7 +13,7 @@ FILLS = {
 }
 
 
-def _style_sheet(ws, fill: PatternFill) -> None:
+def _style_sheet(ws, fill: PatternFill, row_count: int) -> None:
     THIN = Side(style="thin", color="CCCCCC")
     BORDER = Border(left=THIN, right=THIN, top=THIN, bottom=THIN)
 
@@ -38,7 +39,7 @@ def _style_sheet(ws, fill: PatternFill) -> None:
     ws.cell(row=last, column=1, value="Итого записей:").font = Font(
         name="Arial", bold=True, size=10
     )
-    ws.cell(row=last, column=2, value=f"=COUNTA(A2:A{last - 2})").font = Font(
+    ws.cell(row=last, column=2, value=row_count).font = Font(
         name="Arial", bold=True, size=10
     )
 
@@ -51,12 +52,8 @@ def export_to_excel(
     df_pind_only: pd.DataFrame,
     output_path: str | Path,
 ) -> None:
-    """
-    Записывает три DataFrame на отдельные листы Excel:
-        Успешные            — зелёный заголовок
-        RpaBank_неуспешные  — красный заголовок
-        Pindodo_неуспешные  — оранжевый заголовок
-    """
+    logger.info(f"Записываем Excel: {output_path}")
+
     sheets = {
         "Успешные": df_success,
         "RpaBank_неуспешные": df_rpa_only,
@@ -66,10 +63,11 @@ def export_to_excel(
     with pd.ExcelWriter(output_path, engine="openpyxl") as writer:
         for sheet_name, df in sheets.items():
             df.to_excel(writer, sheet_name=sheet_name, index=False)
+            logger.debug(f"Лист '{sheet_name}': {len(df)} строк записано")
 
     wb = load_workbook(output_path)
-    for sheet_name, fill in FILLS.items():
-        _style_sheet(wb[sheet_name], fill)
+    for (sheet_name, df), fill in zip(sheets.items(), FILLS.values()):
+        _style_sheet(wb[sheet_name], fill, len(df))
 
     wb.save(output_path)
-    print(f"Сохранено: {output_path}")
+    logger.info(f"Excel сохранён: {output_path}")
