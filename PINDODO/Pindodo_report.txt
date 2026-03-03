@@ -1,0 +1,1807 @@
+                                                                                       
+----------------------------------------------------------------------------------------------------------------------------------
+                                    Description                               Value                                               
+----------------------------------------------------------------------------------------------------------------------------------
+2025-06-26, EUR
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625002000                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                063534                                        
+      Transaction Amount                        22.34                                               
+      Card Acceptor Terminal ID                 32445551                                            
+      Card Acceptor ID Code                     32445551                                            
+      Transaction Currency                      EUR                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625043801                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                087582                                        
+      Transaction Amount                        16.76                                               
+      Card Acceptor Terminal ID                 32445551                                            
+      Card Acceptor ID Code                     32445551                                            
+      Transaction Currency                      EUR                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625115805                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                191842                                        
+      Transaction Amount                        27.98                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      EUR                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625122939                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                205586                                        
+      Transaction Amount                        15.09                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      EUR                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625175308                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                336302                                        
+      Transaction Amount                        11.20                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      EUR                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625133244                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                232522                                        
+      Transaction Amount                        31.32                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      EUR                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625175127                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                335625                                        
+      Transaction Amount                        11.20                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      EUR                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625055937                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                090666                                        
+      Transaction Amount                        16.77                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      EUR                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625133843                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                235056                                        
+      Transaction Amount                        83.91                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      EUR                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625095632                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                137554                                        
+      Transaction Amount                        111.91                                              
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      EUR                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+----------------------------------------------------------------------------------------------------
+ Total348.48 EUR                                10 transactions        
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625211925                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                410050                                        
+      Transaction Amount                        15200.00                                            
+      Card Acceptor Terminal ID                 42344325                                            
+      Card Acceptor ID Code                     42344325                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625160829                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                294749                                        
+      Transaction Amount                        19900.00                                            
+      Card Acceptor Terminal ID                 42344423                                            
+      Card Acceptor ID Code                     42344423                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625160732                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                294383                                        
+      Transaction Amount                        19700.00                                            
+      Card Acceptor Terminal ID                 42344423                                            
+      Card Acceptor ID Code                     42344423                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625132828                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                230819                                        
+      Transaction Amount                        15200.00                                            
+      Card Acceptor Terminal ID                 42344231                                            
+      Card Acceptor ID Code                     42344231                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625102013                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                147376                                        
+      Transaction Amount                        10000.00                                            
+      Card Acceptor Terminal ID                 42344554                                            
+      Card Acceptor ID Code                     42344554                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625101829                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                146648                                        
+      Transaction Amount                        10000.00                                            
+      Card Acceptor Terminal ID                 42344554                                            
+      Card Acceptor ID Code                     42344554                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625122231                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                202672                                        
+      Transaction Amount                        15000.00                                            
+      Card Acceptor Terminal ID                 42344533                                            
+      Card Acceptor ID Code                     42344533                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625114751                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                187526                                        
+      Transaction Amount                        1000.00                                             
+      Card Acceptor Terminal ID                 42344510                                            
+      Card Acceptor ID Code                     42344510                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625175142                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                335760                                        
+      Transaction Amount                        2500.00                                             
+      Card Acceptor Terminal ID                 42344544                                            
+      Card Acceptor ID Code                     42344544                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625144114                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                260604                                        
+      Transaction Amount                        3700.00                                             
+      Card Acceptor Terminal ID                 42344345                                            
+      Card Acceptor ID Code                     42344345                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625084949                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                114119                                        
+      Transaction Amount                        15200.00                                            
+      Card Acceptor Terminal ID                 42344342                                            
+      Card Acceptor ID Code                     42344342                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625162424                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                301053                                        
+      Transaction Amount                        3400.00                                             
+      Card Acceptor Terminal ID                 42344534                                            
+      Card Acceptor ID Code                     42344534                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625093718                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                130206                                        
+      Transaction Amount                        15200.00                                            
+      Card Acceptor Terminal ID                 42344344                                            
+      Card Acceptor ID Code                     42344344                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625202624                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           000000                                              
+      Retrieval Reference Number                392420                                        
+      Transaction Amount                        50.00                                               
+      Card Acceptor Terminal ID                 44543321                                            
+      Card Acceptor ID Code                     44543321                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             POI                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625121730                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           000000                                              
+      Retrieval Reference Number                222773                                        
+      Transaction Amount                        1691.00                                             
+      Card Acceptor Terminal ID                 44545413                                            
+      Card Acceptor ID Code                     44545413                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             POI                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625155741                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           000000                                              
+      Retrieval Reference Number                290647                                        
+      Transaction Amount                        10.00                                               
+      Card Acceptor Terminal ID                 44544255                                            
+      Card Acceptor ID Code                     44544255                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             POI                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625154150                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                284324                                        
+      Transaction Amount                        700.00                                              
+      Card Acceptor Terminal ID                 42344543                                            
+      Card Acceptor ID Code                     42344543                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625114122                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                184670                                        
+      Transaction Amount                        10200.00                                            
+      Card Acceptor Terminal ID                 42344412                                            
+      Card Acceptor ID Code                     42344412                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625114225                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                185144                                        
+      Transaction Amount                        10200.00                                            
+      Card Acceptor Terminal ID                 42344412                                            
+      Card Acceptor ID Code                     42344412                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625133835                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           000000                                              
+      Retrieval Reference Number                235099                                        
+      Transaction Amount                        1656.00                                             
+      Card Acceptor Terminal ID                 44542104                                            
+      Card Acceptor ID Code                     44542104                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             POI                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625144225                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           000000                                              
+      Retrieval Reference Number                261113                                        
+      Transaction Amount                        1403.00                                             
+      Card Acceptor Terminal ID                 44542104                                            
+      Card Acceptor ID Code                     44542104                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             POI                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625170516                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           000000                                              
+      Retrieval Reference Number                317501                                        
+      Transaction Amount                        2254.00                                             
+      Card Acceptor Terminal ID                 44542104                                            
+      Card Acceptor ID Code                     44542104                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             POI                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625205346                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           000000                                              
+      Retrieval Reference Number                401976                                        
+      Transaction Amount                        4174.00                                             
+      Card Acceptor Terminal ID                 44542104                                            
+      Card Acceptor ID Code                     44542104                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             POI                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625182430                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           000000                                              
+      Retrieval Reference Number                349093                                        
+      Transaction Amount                        1794.00                                             
+      Card Acceptor Terminal ID                 44542104                                            
+      Card Acceptor ID Code                     44542104                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             POI                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625102925                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                151369                                        
+      Transaction Amount                        15200.00                                            
+      Card Acceptor Terminal ID                 42344445                                            
+      Card Acceptor ID Code                     42344445                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625090450                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                118836                                        
+      Transaction Amount                        15000.00                                            
+      Card Acceptor Terminal ID                 42344523                                            
+      Card Acceptor ID Code                     42344523                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625105426                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                161847                                        
+      Transaction Amount                        20000.00                                            
+      Card Acceptor Terminal ID                 42344523                                            
+      Card Acceptor ID Code                     42344523                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625090545                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                119136                                        
+      Transaction Amount                        15000.00                                            
+      Card Acceptor Terminal ID                 42344523                                            
+      Card Acceptor ID Code                     42344523                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625195247                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                381307                                        
+      Transaction Amount                        4000.00                                             
+      Card Acceptor Terminal ID                 42344453                                            
+      Card Acceptor ID Code                     42344453                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625221607                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                427127                                        
+      Transaction Amount                        3200.00                                             
+      Card Acceptor Terminal ID                 42344304                                            
+      Card Acceptor ID Code                     42344304                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625092016                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                124197                                        
+      Transaction Amount                        700.00                                              
+      Card Acceptor Terminal ID                 42344433                                            
+      Card Acceptor ID Code                     42344433                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625103307                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                152934                                        
+      Transaction Amount                        20000.00                                            
+      Card Acceptor Terminal ID                 ATM19104                                            
+      Card Acceptor ID Code                     ATM19104                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625141428                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                249861                                        
+      Transaction Amount                        10000.00                                            
+      Card Acceptor Terminal ID                 42344552                                            
+      Card Acceptor ID Code                     42344552                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625141313                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                249400                                        
+      Transaction Amount                        10000.00                                            
+      Card Acceptor Terminal ID                 42344552                                            
+      Card Acceptor ID Code                     42344552                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625161030                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                295499                                        
+      Transaction Amount                        1200.00                                             
+      Card Acceptor Terminal ID                 42344431                                            
+      Card Acceptor ID Code                     42344431                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250624213505                                      
+      Transaction Date                          2025-06-24                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           000000                                              
+      Retrieval Reference Number                026119                                        
+      Transaction Amount                        910.00                                              
+      Card Acceptor Terminal ID                 44543302                                            
+      Card Acceptor ID Code                     44543302                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             POI                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625211708                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                409299                                        
+      Transaction Amount                        15200.00                                            
+      Card Acceptor Terminal ID                 42344325                                            
+      Card Acceptor ID Code                     42344325                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625211808                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                409615                                        
+      Transaction Amount                        15200.00                                            
+      Card Acceptor Terminal ID                 42344325                                            
+      Card Acceptor ID Code                     42344325                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625211615                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                409010                                        
+      Transaction Amount                        15200.00                                            
+      Card Acceptor Terminal ID                 42344325                                            
+      Card Acceptor ID Code                     42344325                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250624234701                                      
+      Transaction Date                          2025-06-24                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           000000                                              
+      Retrieval Reference Number                057147                                        
+      Transaction Amount                        1000.00                                             
+      Card Acceptor Terminal ID                 44542243                                            
+      Card Acceptor ID Code                     44542243                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             POI                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625000943                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           000000                                              
+      Retrieval Reference Number                061055                                        
+      Transaction Amount                        500.00                                              
+      Card Acceptor Terminal ID                 44542243                                            
+      Card Acceptor ID Code                     44542243                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             POI                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625135645                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           120000                                              
+      Retrieval Reference Number                243678                                        
+      Transaction Amount                        1780.00                                             
+      Card Acceptor Terminal ID                 44525412                                            
+      Card Acceptor ID Code                     44525412                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             POI                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625165218                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           000000                                              
+      Retrieval Reference Number                312711                                        
+      Transaction Amount                        570.00                                              
+      Card Acceptor Terminal ID                 44545415                                            
+      Card Acceptor ID Code                     44545415                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             POI                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625113438                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           000000                                              
+      Retrieval Reference Number                181912                                        
+      Transaction Amount                        400.00                                              
+      Card Acceptor Terminal ID                 44545415                                            
+      Card Acceptor ID Code                     44545415                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             POI                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625114253                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           000000                                              
+      Retrieval Reference Number                185807                                        
+      Transaction Amount                        400.00                                              
+      Card Acceptor Terminal ID                 44545415                                            
+      Card Acceptor ID Code                     44545415                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             POI                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625144639                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           000000                                              
+      Retrieval Reference Number                263056                                        
+      Transaction Amount                        400.00                                              
+      Card Acceptor Terminal ID                 44545415                                            
+      Card Acceptor ID Code                     44545415                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             POI                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625163135                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           000000                                              
+      Retrieval Reference Number                304381                                        
+      Transaction Amount                        200.00                                              
+      Card Acceptor Terminal ID                 44545415                                            
+      Card Acceptor ID Code                     44545415                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             POI                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625095926                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           000000                                              
+      Retrieval Reference Number                139151                                        
+      Transaction Amount                        200.00                                              
+      Card Acceptor Terminal ID                 44545415                                            
+      Card Acceptor ID Code                     44545415                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             POI                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625182337                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           000000                                              
+      Retrieval Reference Number                348713                                        
+      Transaction Amount                        160.00                                              
+      Card Acceptor Terminal ID                 44545322                                            
+      Card Acceptor ID Code                     44545322                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             POI                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625150401                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                269582                                        
+      Transaction Amount                        4300.00                                             
+      Card Acceptor Terminal ID                 42344534                                            
+      Card Acceptor ID Code                     42344534                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625174001                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                331206                                        
+      Transaction Amount                        12000.00                                            
+      Card Acceptor Terminal ID                 42344404                                            
+      Card Acceptor ID Code                     42344404                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625111402                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                171364                                        
+      Transaction Amount                        15000.00                                            
+      Card Acceptor Terminal ID                 42344404                                            
+      Card Acceptor ID Code                     42344404                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625014115                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           000000                                              
+      Retrieval Reference Number                078775                                        
+      Transaction Amount                        1000.00                                             
+      Card Acceptor Terminal ID                 44542244                                            
+      Card Acceptor ID Code                     44542244                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             POI                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625225443                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                436265                                        
+      Transaction Amount                        200.00                                              
+      Card Acceptor Terminal ID                 42344451                                            
+      Card Acceptor ID Code                     42344451                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625225325                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                435994                                        
+      Transaction Amount                        200.00                                              
+      Card Acceptor Terminal ID                 42344451                                            
+      Card Acceptor ID Code                     42344451                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625191556                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                368445                                        
+      Transaction Amount                        8200.00                                             
+      Card Acceptor Terminal ID                 42344342                                            
+      Card Acceptor ID Code                     42344342                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625185923                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                362364                                        
+      Transaction Amount                        10200.00                                            
+      Card Acceptor Terminal ID                 42344321                                            
+      Card Acceptor ID Code                     42344321                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625185552                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                361030                                        
+      Transaction Amount                        2700.00                                             
+      Card Acceptor Terminal ID                 42344321                                            
+      Card Acceptor ID Code                     42344321                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625210504                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           000000                                              
+      Retrieval Reference Number                405584                                        
+      Transaction Amount                        3660.00                                             
+      Card Acceptor Terminal ID                 44542242                                            
+      Card Acceptor ID Code                     44542242                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             POI                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625182710                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           000000                                              
+      Retrieval Reference Number                350185                                        
+      Transaction Amount                        390.00                                              
+      Card Acceptor Terminal ID                 44542242                                            
+      Card Acceptor ID Code                     44542242                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             POI                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625201759                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           000000                                              
+      Retrieval Reference Number                389602                                        
+      Transaction Amount                        390.00                                              
+      Card Acceptor Terminal ID                 44542242                                            
+      Card Acceptor ID Code                     44542242                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             POI                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625175045                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           000000                                              
+      Retrieval Reference Number                335810                                        
+      Transaction Amount                        3530.00                                             
+      Card Acceptor Terminal ID                 19013396                                            
+      Card Acceptor ID Code                     19013396                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             POI                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625140904                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                247635                                        
+      Transaction Amount                        2500.00                                             
+      Card Acceptor Terminal ID                 42344442                                            
+      Card Acceptor ID Code                     42344442                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625100329                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           000000                                              
+      Retrieval Reference Number                140889                                        
+      Transaction Amount                        200.00                                              
+      Card Acceptor Terminal ID                 44545415                                            
+      Card Acceptor ID Code                     44545415                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             POI                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625142451                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           000000                                              
+      Retrieval Reference Number                254277                                        
+      Transaction Amount                        400.00                                              
+      Card Acceptor Terminal ID                 44545415                                            
+      Card Acceptor ID Code                     44545415                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             POI                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625143256                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                257210                                        
+      Transaction Amount                        15200.00                                            
+      Card Acceptor Terminal ID                 42344544                                            
+      Card Acceptor ID Code                     42344544                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625150507                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                269948                                        
+      Transaction Amount                        2000.00                                             
+      Card Acceptor Terminal ID                 42344413                                            
+      Card Acceptor ID Code                     42344413                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625220115                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           000000                                              
+      Retrieval Reference Number                422960                                        
+      Transaction Amount                        1753.00                                             
+      Card Acceptor Terminal ID                 44542104                                            
+      Card Acceptor ID Code                     44542104                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             POI                                                 
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625123353                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           010000                                              
+      Retrieval Reference Number                207416                                        
+      Transaction Amount                        5000.00                                             
+      Card Acceptor Terminal ID                 42344521                                            
+      Card Acceptor ID Code                     42344521                                            
+      Transaction Currency                      KGS                                                 
+      Terminal Type                             ATM                                                 
+      System Processing Date                    2025-06-26                                          
+----------------------------------------------------------------------------------------------------
+ Total for 2025-06-26:              435375.00 KGS                             69 transactions                                     
+
+2025-06-26, USD
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250626001507                                      
+      Transaction Date                          2025-06-26                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                451598                                        
+      Transaction Amount                        12.74                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625062802                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                092097                                        
+      Transaction Amount                        25.52                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625193214                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                374175                                        
+      Transaction Amount                        31.86                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625002203                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                063833                                        
+      Transaction Amount                        12.75                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625061803                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                091554                                        
+      Transaction Amount                        19.14                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625093914                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                130821                                        
+      Transaction Amount                        127.84                                              
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625144503                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                262111                                        
+      Transaction Amount                        6.38                                                
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625165113                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                311817                                        
+      Transaction Amount                        6.02                                                
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625195704                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                382732                                        
+      Transaction Amount                        30.00                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625070601                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                094950                                        
+      Transaction Amount                        20.41                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625082428                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                107293                                        
+      Transaction Amount                        13.42                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625184721                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                357821                                        
+      Transaction Amount                        10.00                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625192232                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                370761                                        
+      Transaction Amount                        31.86                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625195711                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                382745                                        
+      Transaction Amount                        31.86                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625200654                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                385937                                        
+      Transaction Amount                        19.12                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625224812                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                434890                                        
+      Transaction Amount                        12.78                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625043836                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                087601                                        
+      Transaction Amount                        30.62                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625162026                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                299360                                        
+      Transaction Amount                        12.00                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625165448                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                313282                                        
+      Transaction Amount                        6.38                                                
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625185853                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                362115                                        
+      Transaction Amount                        7.64                                                
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625201700                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                389189                                        
+      Transaction Amount                        19.12                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625155641                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                290197                                        
+      Transaction Amount                        80.00                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625171216                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                319978                                        
+      Transaction Amount                        6.38                                                
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625193644                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                375703                                        
+      Transaction Amount                        38.24                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625210609                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                405819                                        
+      Transaction Amount                        12.14                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625231842                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                441267                                        
+      Transaction Amount                        15.33                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625160101                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                291902                                        
+      Transaction Amount                        30.00                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625200334                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                384864                                        
+      Transaction Amount                        19.12                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625200954                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                386915                                        
+      Transaction Amount                        19.12                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625201226                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                387716                                        
+      Transaction Amount                        30.00                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625210425                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                405276                                        
+      Transaction Amount                        25.49                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625052309                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                089235                                        
+      Transaction Amount                        31.90                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625151833                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                275205                                        
+      Transaction Amount                        6.38                                                
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625152403                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                277291                                        
+      Transaction Amount                        102.12                                              
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625195304                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                381371                                        
+      Transaction Amount                        31.86                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625200015                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                383796                                        
+      Transaction Amount                        25.49                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625201347                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                388143                                        
+      Transaction Amount                        19.12                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625061229                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                091286                                        
+      Transaction Amount                        6.38                                                
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625154244                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                284676                                        
+      Transaction Amount                        70.00                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625163241                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                304424                                        
+      Transaction Amount                        15.00                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625165216                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                312323                                        
+      Transaction Amount                        23.19                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+      ----------------------------------------------------------------------------------------------
+      Bank                                      RpaBank                                         
+      Dynamic Currency Conversion               No                                                  
+      Local Transaction Date and Time           20250625221224                                      
+      Transaction Date                          2025-06-25                                          
+      Message Reason Code                       1401                                                
+      Processing Code                           180000                                              
+      Retrieval Reference Number                426140                                        
+      Transaction Amount                        12.78                                               
+      Card Acceptor Terminal ID                 32445553                                            
+      Card Acceptor ID Code                     32445553                                            
+      Transaction Currency                      USD                                                 
+      Terminal Type                             CT6                                                 
+      Electronic Commerce Security Level Indica 212                                                 
+      tor                                                                                           
+      System Processing Date                    2025-06-26                                          
+----------------------------------------------------------------------------------------------------
