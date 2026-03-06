@@ -22,7 +22,8 @@ test_tech_task/
 │   ├── logger.py                 # Настройка loguru
 │   └── main.py                   # Точка входа
 └── logs/
-    └── reconciliation.log        # Лог-файл (генерируется автоматически)
+│   └── reconciliation.log        # Лог-файл (генерируется автоматически)
+└── reconciliation.exe            # Исполняемый файл для Windows
 ```
 
 ---
@@ -47,6 +48,18 @@ cd test_tech_task
 python3 script/main.py
 ```
 
+## Запуск на Windows (без Python)
+
+Скачай `reconciliation.exe` из репозитория и положи его рядом с папками `RPA/` и `PINDODO/`:
+
+```
+📁 любая папка/
+├── reconciliation.exe
+├── 📁 RPA/
+│   └── RpaBank_report.txt
+└── 📁 PINDODO/
+    └── Pindodo_report.txt
+```
 ---
 
 ## Форматы входных файлов
